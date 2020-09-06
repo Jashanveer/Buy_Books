@@ -4,8 +4,8 @@
 It is a front end website developed with the help of **HTML, CSS, Javascript and Bootstrap**.
 
 #### How to access?
-
-+ First of all you need to find Entry page.html.  
++ First you need to <a href="https://github.com/Jashanveer/BuyBooks/archive/master.zip" >download</a> the porject.
++ Next extract the zip file and find Entry page.html.  
 + Double click on the file and the fill will open in your default browser.  
 + Now scroll to the bottom of the page and click on EXPLORE!!.  
 + It will open a new webpage which is also present named as homepage..  
